@@ -4,15 +4,17 @@
 using namespace std;
 
 struct Vector {
-	float x, y, z;
+	float x = 0;
+	float y = 0;
+	float z = 0;
 };
 
 struct Jugador {
-	string nombre;
-	int ps;
-	int armor;
-	int nuevops;
-	int nuevaArmor;
+	string nombre = "";
+	int ps = 0;
+	int armor = 0;
+	int nuevops = 0;
+	int nuevaArmor = 0;
 	Vector vector;
 
 	void reducirPs(int damage) {

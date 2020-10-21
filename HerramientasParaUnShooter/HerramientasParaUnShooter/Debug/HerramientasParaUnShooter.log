@@ -1,2 +1,1 @@
-﻿  HerramientasParaUnShooter.cpp
-  HerramientasParaUnShooter.vcxproj -> D:\Visual Studio Projecs\HerramientasParaUnShooter\Debug\HerramientasParaUnShooter.exe
+﻿LINK : fatal error LNK1168: no se puede abrir D:\Visual Studio Projecs\HerramientasParaUnShooter\Debug\HerramientasParaUnShooter.exe para escritura
